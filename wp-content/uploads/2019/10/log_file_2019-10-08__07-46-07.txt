@@ -1,0 +1,92 @@
+
+---Downloaded files---
+The import files for: Demo content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://goodzapa.com.ua
+Data file = /home/tvoyoaut/goodzapa.com.ua/www/wp-content/themes/sydney/demo-content/demo-content.xml
+Widget file = /home/tvoyoaut/goodzapa.com.ua/www/wp-content/themes/sydney/demo-content/demo-widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+---Importing widgets---
+sidebar-above-header : Sidebar does not exist in theme (moving widget to Inactive)
+
+Поиск - No Title - Imported to Inactive
+Свежие записи - No Title - Imported to Inactive
+Свежие комментарии - No Title - Imported to Inactive
+Архивы - No Title - Imported to Inactive
+Рубрики - No Title - Imported to Inactive
+Мета - No Title - Imported to Inactive
+
+Sidebar : 
+
+Поиск - No Title - Widget already exists
+Свежие записи - No Title - Imported
+Календарь - No Title - Imported
+
+Footer 1 : 
+
+Sydney: Video - No Title - Imported
+
+Footer 2 : 
+
+Текст - No Title - Imported
+
+Footer 3 : 
+
+Sydney: Contact info - Get in touch - Imported
+
+
+
+---pt-ocdi/after_import---
+
